@@ -7,9 +7,7 @@ import pandas as pd
 
 from models.producer import Producer
 
-
 logger = logging.getLogger(__name__)
-
 
 class TurnstileHardware:
     curve_df = None

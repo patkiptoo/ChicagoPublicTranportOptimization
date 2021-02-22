@@ -43,7 +43,6 @@ class Station(Producer):
         
         self.turnstile = Turnstile(self)
 
-
     def run(self, train, direction, prev_station_id, prev_direction):
         """Simulates train arrivals at this station"""
         logger.info("arrival kafka integration complete")
