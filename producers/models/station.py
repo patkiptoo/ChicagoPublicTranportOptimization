@@ -9,6 +9,7 @@ from models.producer import Producer
 
 logger = logging.getLogger(__name__)
 
+
 class Station(Producer):
     """Defines a single station"""
     key_schema = avro.load(f"{Path(__file__).parents[0]}/schemas/arrival_key.json")
