@@ -1,4 +1,4 @@
-# TITLE: PublicTranportOptimization
+# Public Tranport Optimization
 
 ## INTRODUCTION:
 Public transport optimization using kafka data streaming capabilities with kafka connect, ksql, faust to ingest, transform and feed kafka consumers to enable 
