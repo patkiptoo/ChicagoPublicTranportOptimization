@@ -36,6 +36,7 @@ class Producer:
             'KAFKA_REST_PROXY': 'http://localhost:8082'
         }
 
+
         # If the topic does not already exist, try to create it
         if self.topic_name not in Producer.existing_topics:
             self.create_topic()
