@@ -2,7 +2,6 @@ import logging
 import math
 from pathlib import Path
 import random
-
 import pandas as pd
 
 from models.producer import Producer
