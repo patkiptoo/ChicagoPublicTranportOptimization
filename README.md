@@ -14,4 +14,10 @@ Public transport optimization using kafka data streaming capabilities with kafka
 `git clone https://github.com/patkiptoo/PublicTranportOptimization.git`
 
 ## EXAMPLE
-Train Status (arrival) and passenger arrival at tunrnstiles.
+Train Status (arrival) and passenger arrival at tunrnstiles simulation mode
+
+`$ python turnstile_hardware.py &
+$ python line.py &`
+
+
+
