@@ -20,4 +20,5 @@ Train Status (arrival) and passenger arrival at tunrnstiles simulation mode
 `$ python line.py &`
 
 
-
+## License
+Open source under the [MIT_License](https://en.wikipedia.org/wiki/MIT_License)
