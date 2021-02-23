@@ -5,10 +5,13 @@ Public transport optimization using kafka data streaming capabilities with kafka
 
 
 ## Technologies
-Apache Kafka
-PostgresQL
-Apache Rest Proxy
-Redis
+* Apache Kafka
+* PostgresQL
+* Apache Rest Proxy
+* Redis
+
+## Install
+`git clone https://github.com/patkiptoo/PublicTranportOptimization.git`
 
 ## EXAMPLE
 Train Status (arrival) and passenger arrival at tunrnstiles.
